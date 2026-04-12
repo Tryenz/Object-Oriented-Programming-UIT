@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775748501 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt4_btth2\src\giophutgiay.cpp
+	<iostream>
+	"GioPhutGiay.h"
+
+1775748501 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt4_btth2\include\giophutgiay.h
+
+1775748501 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt4_btth2\src\main.cpp
+	<iostream>
+	"GioPhutGiay.h"
+
