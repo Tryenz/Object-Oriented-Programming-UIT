@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1777541019 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt8_btth3\src\main.cpp
+	<iostream>
+	"cNhanVienSX.h"
+
+1777489186 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt8_btth3\include\cnhanviensx.h
+	<iostream>
+	<string>
+	<vector>
+
+1777541532 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt8_btth3\src\cnhanviensx.cpp
+	"cNhanVienSX.h"
+	<algorithm>
+
