@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1779504919 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt5_btth4\src\dathuc.cpp
+	"DaThuc.h"
+
+1779504919 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt5_btth4\include\dathuc.h
+	<iostream>
+	<cmath>
+
+1779505000 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt5_btth4\src\main.cpp
+	<iostream>
+	"DaThuc.h"
+

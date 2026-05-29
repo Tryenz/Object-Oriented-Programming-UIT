@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1779511394 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt7_btth4\src\cmatrix.cpp
+	"CMatrix.h"
+
+1779511394 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt7_btth4\include\cmatrix.h
+	<iostream>
+	<iomanip>
+	"CVector.h"
+
+1779511394 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt7_btth4\include\cvector.h
+	<iostream>
+	<cmath>
+
+1779510952 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt7_btth4\src\cvector.cpp
+	"CVector.h"
+
+1779861816 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt7_btth4\src\main.cpp
+	<iostream>
+	"CMatrix.h"
+	"CVector.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1779473894 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt2_btth4\src\phanso.cpp
+	"PhanSo.h"
+
+1779473894 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt2_btth4\include\phanso.h
+	<iostream>
+	<cmath>
+
+1779474141 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt2_btth4\src\main.cpp
+	<iostream>
+	"PhanSo.h"
+

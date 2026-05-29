@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1779888203 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt4_btth4\src\cdate.cpp
+	"CDate.h"
+
+1779888203 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt4_btth4\include\cdate.h
+	<iostream>
+
+1779888256 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt4_btth4\src\main.cpp
+	<iostream>
+	<iomanip>
+	"CDate.h"
+

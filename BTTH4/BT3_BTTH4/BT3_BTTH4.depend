@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1779500849 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt3_btth4\src\ctime.cpp
+	"CTime.h"
+
+1779500616 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt3_btth4\include\ctime.h
+	<iostream>
+	<iomanip>
+
+1779500849 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt3_btth4\src\main.cpp
+	<iostream>
+	"CTime.h"
+

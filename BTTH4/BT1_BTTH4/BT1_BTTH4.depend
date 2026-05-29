@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1779812301 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt1_btth4\src\main.cpp
+	<iostream>
+	"SoPhuc.h"
+
+1779812301 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt1_btth4\include\sophuc.h
+	<iostream>
+
+1779473020 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth4\bt1_btth4\src\sophuc.cpp
+	"SoPhuc.h"
+
