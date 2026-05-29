@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1775745456 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt1\bt1_btth2\src\main.cpp
+	<iostream>
+	"NgayThangNam.h"
+
+1775745456 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt1\bt1_btth2\include\ngaythangnam.h
+
+1775745456 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt1\bt1_btth2\src\ngaythangnam.cpp
+	<iostream>
+	"NgayThangNam.h"
+
+1775745456 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt1_btth2\src\main.cpp
+	<iostream>
+	"NgayThangNam.h"
+
+1775745456 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt1_btth2\include\ngaythangnam.h
+
+1775745531 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth2\bt1_btth2\src\ngaythangnam.cpp
+	<iostream>
+	"NgayThangNam.h"
+
