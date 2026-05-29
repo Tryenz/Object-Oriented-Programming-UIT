@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1777393555 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt2_btth3\src\cdagiac.cpp
+	"cDaGiac.h"
+	<iostream>
+	<cmath>
+
+1777393555 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt2_btth3\include\cdagiac.h
+	<vector>
+	"cDiem.h"
+
+1777394003 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt2_btth3\include\cdiem.h
+
+1777396046 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt2_btth3\src\main.cpp
+	<iostream>
+	"cDaGiac.h"
+
+1777394056 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt2_btth3\src\cdiem.cpp
+	"cDiem.h"
+	<iostream>
+	<cmath>
+

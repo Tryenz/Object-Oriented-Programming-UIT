@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777479017 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt5_btth3\src\cdathuc.cpp
+	<cmath>
+
+1777479017 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt5_btth3\include\cdathuc.h
+	<iostream>
+	<vector>
+
+1777479032 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth3\bt5_btth3\src\main.cpp
+	"cDaThuc.h"
+
