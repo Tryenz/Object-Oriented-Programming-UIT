@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1780208117 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt6_btth5\src\khachhang.cpp
+	"KhachHang.h"
+	<algorithm>
+
+1780208245 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt6_btth5\include\khachhang.h
+	<bits/stdc++.h>
+
+1780208117 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt6_btth5\src\main.cpp
+	<bits/stdc++.h>
+	"KhachHang.h"
+

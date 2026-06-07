@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1780157398 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt4_btth5\src\main.cpp
+	<iostream>
+	<vector>
+	"NhanVien.h"
+
+1780156865 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt4_btth5\include\nhanvien.h
+	<bits/stdc++.h>
+
+1780157398 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt4_btth5\src\nhanvien.cpp
+	"NhanVien.h"
+	<iomanip>
+

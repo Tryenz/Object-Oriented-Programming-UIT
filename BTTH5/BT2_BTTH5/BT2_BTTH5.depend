@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1780148962 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt2_btth5\src\giaodich.cpp
+	"GiaoDich.h"
+	<iomanip>
+
+1780146162 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt2_btth5\include\giaodich.h
+	<bits/stdc++.h>
+
+1780150389 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt2_btth5\src\main.cpp
+	<iostream>
+	<vector>
+	"GiaoDich.h"
+

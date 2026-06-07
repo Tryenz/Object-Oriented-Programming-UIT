@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1780154862 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt3_btth5\src\main.cpp
+	<iostream>
+	<vector>
+	"SinhVien.h"
+
+1780153883 d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt3_btth5\include\sinhvien.h
+	<bits/stdc++.h>
+
+1780154635 source:d:\truyen vo\documents\freshman\second semester\laptrinhhuongdoituong\thuchanh\btth5\bt3_btth5\src\sinhvien.cpp
+	"SinhVien.h"
+	<iomanip>
+
